@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:new_http_project_flutter/httpProvider.dart';
 import 'package:new_http_project_flutter/userdetail.dart';
-import 'dart:convert';
-import 'dart:io';
 
 class Home extends StatefulWidget {
   const Home({super.key});
